@@ -1,7 +1,7 @@
 # OTA Server
 
 
-ota.atik.cf
+http://ota.atik.cf/
 
 Generate Certificate here
 
