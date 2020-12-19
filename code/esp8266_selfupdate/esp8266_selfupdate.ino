@@ -6,7 +6,7 @@
 BearSSL::CertStore certStore;
 #include <time.h>
  
-const String FirmwareVer={"1.8"}; 
+const String FirmwareVer={"1.9"}; 
 #define URL_fw_Version "/ota-server/bin/esp8266/version.txt" //"/programmer131/otaFiles/master/version.txt"
 #define URL_fw_Bin "https://atikur-rabbi.github.io/ota-server/bin/esp8266/firmware.bin" //"https://raw.githubusercontent.com/programmer131/otaFiles/master/firmware.bin"
 const char* host = "atikur-rabbi.github.io"; //"raw.githubusercontent.com"; // https://atikur-rabbi.github.io/
