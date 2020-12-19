@@ -1,0 +1,7 @@
+*.now.sh
+ota-server.now.sh
+D9:AA:F0:05:3F:BB:7A:31:B3:33:CE:6C:D2:A9:8A:2D:F8:B6:8B:31
+ota-server.now.sh/Blink.ino.bin
+
+
+cert_FneJtsZQ7TC3Kt8NdoSa3pyW
